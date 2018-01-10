@@ -1,6 +1,6 @@
-# ReduxSimpleStarter
+# Youtubr
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+An Alternative GUI for Youtube built on top of React Framework
 
 ### Getting Started
 
