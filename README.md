@@ -1,6 +1,6 @@
 # Youtubr
 
-An Alternative GUI for Youtube built on top of React Framework
+An Alternative GUI for Youtube built on top of ReactJs and Redux for state management.
 
 ### Getting Started
 
